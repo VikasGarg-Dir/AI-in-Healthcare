@@ -16,14 +16,14 @@ This repository contains comprehensive Exploratory Data Analysis (EDA) on severa
 ```
 Disease-EDA/
 │
-├── Alzheimers_Disease_Prediction/
-├── Asthma_Disease_Prediction/
-├── Chronic_Kidney_Disease_Prediction/
-├── Diabetes_Disease_Prediction/
-├── Heart_Disease_Prediction/
-├── Liver_Disease_Prediction/
-├── Lung_Cancer_Detection/
-├── Parkinson_Detection/
+├── Alzheimers Disease Prediction/
+├── Asthma Disease Prediction/
+├── Chronic Kidney Disease Prediction/
+├── Diabetes Disease Prediction/
+├── Heart Disease Prediction/
+├── Liver Disease Prediction/
+├── Lung Cancer Detection/
+├── Parkinson Detection/
 └── README.md
 ```
 
