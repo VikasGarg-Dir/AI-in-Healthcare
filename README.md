@@ -7,7 +7,7 @@ This repository contains comprehensive Exploratory Data Analysis (EDA) on severa
 -  **Chronic Kidney Disease Prediction**
 -  **Diabetes Prediction**
 -  **Heart Disease Prediction**
--  **Liver Disease**
+-  **Liver Disease Prediction**
 -  **Lung Disease**
 -  **Parkinson’s Disease**
 
@@ -21,7 +21,7 @@ Disease-EDA/
 ├── Chronic_Kidney_Disease_Prediction/
 ├── Diabetes_Disease_Prediction/
 ├── Heart_Disease_Prediction/
-├── Liver/
+├── Liver_Disease_Prediction/
 ├── Lung/
 ├── Parkinson/
 └── README.md
