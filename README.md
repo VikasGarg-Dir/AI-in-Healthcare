@@ -9,7 +9,7 @@ This repository contains comprehensive Exploratory Data Analysis (EDA) on severa
 -  **Heart Disease Prediction**
 -  **Liver Disease Prediction**
 -  **Lung Cancer Detection**
--  **Parkinsons Detection**
+-  **Parkinson Detection**
 
 ## 📁 Repository Structure
 
