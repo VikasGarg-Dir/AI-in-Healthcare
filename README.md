@@ -2,10 +2,10 @@
 
 This repository contains comprehensive Exploratory Data Analysis (EDA) on several major diseases, aiming to uncover insights, patterns, and trends within medical datasets. The diseases currently covered include:
 
--  **Alzheimer’s Disease**
+-  **Alzheimer’s Disease Prediction**
 -  **Asthma Disease Prediction**
 -  **Chronic Kidney Disease Prediction**
--  **Diabetes**
+-  **Diabetes Prediction**
 -  **Heart Disease**
 -  **Liver Disease**
 -  **Lung Disease**
@@ -16,10 +16,10 @@ This repository contains comprehensive Exploratory Data Analysis (EDA) on severa
 ```
 Disease-EDA/
 │
-├── Alzheimer's_Disease_Prediction/
+├── Alzheimers_Disease_Prediction/
 ├── Asthma_Disease_Prediction/
-├── Chronic_Kidney_Disease/
-├── Diabetes/
+├── Chronic_Kidney_Disease Prediction/
+├── Diabetes_Prediction/
 ├── Heart/
 ├── Liver/
 ├── Lung/
