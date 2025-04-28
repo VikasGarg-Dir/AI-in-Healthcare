@@ -4,7 +4,7 @@ This repository contains comprehensive Exploratory Data Analysis (EDA) on severa
 
 -  **Alzheimer’s Disease**
 -  **Asthma Disease Prediction**
--  **Chronic Kidney Disease**
+-  **Chronic Kidney Disease Prediction**
 -  **Diabetes**
 -  **Heart Disease**
 -  **Liver Disease**
@@ -16,8 +16,8 @@ This repository contains comprehensive Exploratory Data Analysis (EDA) on severa
 ```
 Disease-EDA/
 │
-├── Alzheimer's/
-├── Asthma/
+├── Alzheimer's_Disease_Prediction/
+├── Asthma_Disease_Prediction/
 ├── Chronic_Kidney_Disease/
 ├── Diabetes/
 ├── Heart/
